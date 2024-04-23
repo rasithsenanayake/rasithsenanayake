@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="left">hey there 👋 <br> I am Skipper From Srilanka</h1>
+<h1 align="left">Hi 👋, I'm Skipper :)<br>An undergraduate from Srilanka</h1>
   
 
 ###
