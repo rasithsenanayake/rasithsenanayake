@@ -36,7 +36,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zadheek.zadheek&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rasithsenanayake.rasithsenanayake&right_color=darkgreen"  />
 </div>
 
 ###
