@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Hello My name is Rasith Senanayake<br> <br> i am a ......<br>Aspiring computer security expert 🛡️ <br>Second-year student diving deep into cybersecurity @ NSBM Green University 📚 <br>Intrigued by the mysterious side of tech 🔍  <br>Always leveling up my skills to secure the digital world 💻"</p>
+<p align="left">Hello My name is Rasith Senanayake<br> <br> i am a ......<br>Aspiring computer security expert 🛡️ <br>Third-year student diving deep into cybersecurity @ Plymouth University 📚 <br>Intrigued by the mysterious side of tech 🔍  <br>Always leveling up my skills to secure the digital world 💻"</p>
 
 ###
 
