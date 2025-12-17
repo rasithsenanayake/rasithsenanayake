@@ -1,4 +1,4 @@
-# Hi , I'm Skipper 
+# Hi , I'm Skipper :)
 
 🛡️ Secure Systems & Software Engineering
 
