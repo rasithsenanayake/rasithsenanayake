@@ -22,4 +22,3 @@
 
 ---
 
-🖤 Think like an attacker. Build like a defender.
